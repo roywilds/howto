@@ -71,8 +71,8 @@ To summarize, my most common workflow involves:
 - `git add file1 file2` # Add the files I've changed/created
 - `git commit -m "I create file1 to prep data and file2 to build the RF model."`
 - `git push origin RandomForest_Kaggle123`
-- # create the PR in the github UI, assign myself, merge it.
-- # delete the branch in the github UI.
+- create the PR in the github UI, assign myself, merge it.
+- delete the branch in the github UI.
 - `git checkout master && git pull` # To update local
 and done.
 
