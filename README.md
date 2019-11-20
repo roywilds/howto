@@ -20,5 +20,9 @@ Notebooks:
 - Classification Tutorial: A simple classification problem.
 - Regression Tutorial: A simple regression problem
 
+Articles:
+- How I use git and github for my work
+
 Scripts:
-- 
+-
+ 
