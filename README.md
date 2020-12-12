@@ -25,4 +25,6 @@ Articles:
 
 Scripts:
 -
- 
+
+## keras
+Introduction to using Keras and Tensorflow for ANNs/Deep Learning. 
